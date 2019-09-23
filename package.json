@@ -13,6 +13,6 @@
   "license": "ISC",
   "volta": {
     "node": "8.9.2",
-    "yarn": "1.12.3"
+    "yarn": "1.17.3"
   }
 }
